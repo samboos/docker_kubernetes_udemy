@@ -1,0 +1,3 @@
+docker version --> see docker version
+
+concept of image cache locally
